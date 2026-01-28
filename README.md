@@ -1,4 +1,3 @@
-# blood-donation-platform
 # 🩸 Blood Donation Platform
 
 A full-stack **Blood Donation Platform** developed using **Django (Backend)** and **React (Frontend)** to connect blood donors, recipients, hospitals, and blood banks in real time. The goal is to make blood availability faster, transparent, and reliable during emergencies.
@@ -72,28 +71,6 @@ Future improvements include secure authentication, location-based donor matching
 
 ### Database
 - SQLite (can be extended to MySQL/PostgreSQL)
-
----
-
-## 📁 Project Structure## 📁 Project Structure
-
-```
-blood-donation-platform/
-│
-├── backend/                 # Django backend
-│   ├── manage.py
-│   └── blood_app/
-│
-├── frontend/                # React frontend
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.js
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 ---
 
